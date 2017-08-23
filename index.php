@@ -19,7 +19,9 @@
 <?php include 'nav.php'; ?>
 		<!-- banner -->
 		<section class="banner">
+		<a href="contacto.php">
 			<img src="opcion1/images/paint3.jpg" alt="obra principal">
+		</a>
 		</section>
 
 

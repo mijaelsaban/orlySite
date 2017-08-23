@@ -78,7 +78,7 @@ $comment=$_SESSION['comment']??'';
         <li><a href="about.html">ABOUT</a></li>
         <li><a href="mailto:orlyrosenkranz@hotmail.com?subject=feedback" >CONTACT</a></li>
     </ul>
-    <strong>©Orly Rosenkranz 2017. - All Rights Reserved.</strong>
+    <strong class="copyright">©Orly Rosenkranz 2017. - All Rights Reserved.</strong>
 </footer>
 
 

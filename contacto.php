@@ -42,7 +42,7 @@ $comment=$_SESSION['comment']??'';
      <?php if(!isset($_SESSION['exito'])): ?>
             <div class="row">
               <div class="col-sm-6 form-group">
-                <input class="form-control"  name="name" placeholder='Name' type="text" value='<?php echo $nombre; ?>' >
+                <input class="form-control"  name="name" placeholder='Name' type="text" value='<?php echo $nombre; ?>' autofocus >
               </div>
               <div class="col-sm-6 form-group">
                 <input class="form-control"  name="email" placeholder="Email" type="email" value='<?php echo $email; ?>' >

@@ -46,7 +46,7 @@
 						    <img class="card-img-top" src="images/paint16.jpeg" alt="Card image cap">
 						    <div class="card-body">
 						      <h4 class="card-title">Noviembre</h4>
-						      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+						      <p class="card-text">Acrylic on Canvas.</p>
 						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
 						      <a href="contacto.php" class="btn btn-primary">Contact </a >
 						    </div>
@@ -57,7 +57,7 @@
 					   	<div class="card">
 						    <img class="card-img-top" src="images/paint17.jpg" alt="Card image cap">
 						    <div class="card-body">
-						      <h4 class="card-title">El Arbol de La Vida</h4>
+						      <h4 class="card-title">Noviembre</h4>
 						      <p class="card-text">Acrylic On Canvas.</p>
 						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
 						      <a href="contacto.php" class="btn btn-primary">Contact </a >

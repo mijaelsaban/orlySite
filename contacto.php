@@ -30,6 +30,7 @@ $comment=$_SESSION['comment']??'';
         <div class="row">
           <div class="col-sm-5">
             <p>Contact us and we'll get back to you.</p>
+            <p>Contactenos.</p>
             <p><span class="glyphicon glyphicon-map-marker"></span> Buenos Aires, AR</p>
           
             <p><span class="glyphicon glyphicon-envelope"></span> orlyrosenkranz@hotmail.com</p>

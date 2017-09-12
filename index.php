@@ -10,6 +10,10 @@
 		<meta name="description" content="Artist">
 		<meta name="author" content="Orly Rosenkranz">
 		<meta name="keywords" content="Arte,artista,plastica,comprar,cuadros">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 	</head>
 	<body>
 
@@ -23,10 +27,89 @@
 			<img src="opcion1/images/paint3.jpg" alt="obra principal">
 		</a>
 		</section>
-
-
-
 	</div>
+
+
+	<div class="row galeria">
+		<div class="col-xs-12 col-sm-12 ">
+			<div class="card-columns">
+				<div class="card">
+					<img class="card-img-top" src="images/paint15.jpeg" alt="Card image cap">
+					<div class="card-body">
+					<h4 class="card-title">El Arbol de la Vida</h4>
+					<p class="card-text">Acrylic On Canvas.</p>
+						<a href="contacto.php" class="btn btn-primary">Contact </a >
+					</div>
+				</div>
+						
+						<div class="card">
+						    <img class="card-img-top" src="images/paint16.jpeg" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">Noviembre</h4>
+						      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-primary">Contact </a >
+						    </div>
+					   </div>
+					   
+
+
+					   	<div class="card">
+						    <img class="card-img-top" src="images/paint17.jpg" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">El Arbol de La Vida</h4>
+						      <p class="card-text">Acrylic On Canvas.</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-primary">Contact </a >
+						    </div>
+					   </div>
+
+					      	<div class="card">
+						    <img class="card-img-top" src="images/paint18.png" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">Paisaje</h4>
+						      <p class="card-text">Acrylic On Canvas.</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-info">Contact </a >
+						    </div>
+					   </div>
+
+					      	<div class="card">
+						    <img class="card-img-top" src="images/paint19.png" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">Paisaje Urbano</h4>
+						      <p class="card-text">Técnica Mixta.</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-info">Contact </a >
+						    </div>
+					   </div>
+
+					   <div class="card">
+						    <img class="card-img-top" src="images/paint6.png" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">El Árbol de La Vida</h4>
+						      <p class="card-text">Acrylic On Canvas.</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-info">Contact </a >
+						    </div>
+					   </div>
+
+					      <div class="card">
+						    <img class="card-img-top" src="images/paint20.jpg" alt="Card image cap">
+						    <div class="card-body">
+						      <h4 class="card-title">Spring</h4>
+						      <p class="card-text">Oil on Canvas</p>
+						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+						      <a href="contacto.php" class="btn btn-info">Contact </a >
+						    </div>
+					   </div>
+
+			</div>
+		</div>	
+	</div>
+
+
+
 
 	<footer class="main-footer">
 		<ul>

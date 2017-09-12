@@ -39,47 +39,44 @@ $comment=$_SESSION['comment']??'';
 
 
 <form class="" action="comments.php" method="post">
-     <?php if(!isset($_SESSION['exito'])): ?>
-            <div class="row">
-              <div class="col-sm-6 form-group">
-                <input class="form-control"  name="name" placeholder='Name' type="text" value='<?php echo $nombre; ?>' autofocus >
-              </div>
-              <div class="col-sm-6 form-group">
-                <input class="form-control"  name="email" placeholder="Email" type="email" value='<?php echo $email; ?>' >
-              </div>
-            </div>
-            <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5" ><?php echo $comment; ?></textarea><br>
-            <!-- <div class="row"> -->
-                <?php endif; ?>
-              <div class="col-sm-12 form-group" style="
-    margin-bottom: 80px;">
-        <?php  $errors = $_SESSION['errors'] ?? array(); ?>
-        <?php foreach ($errors as $e): ?>
-        <p style="color:red;"><?php echo $e; ?></p>
-    <?php endforeach; ?>
+             <?php if(!isset($_SESSION['exito'])): ?>
+                    <div class="row">
+                      <div class="col-sm-6 form-group">
+                        <input class="form-control"  name="name" placeholder='Name' type="text" value='<?php echo $nombre; ?>' autofocus >
+                      </div>
+                      <div class="col-sm-6 form-group">
+                        <input class="form-control"  name="email" placeholder="Email" type="email" value='<?php echo $email; ?>' >
+                      </div>
+                    </div>
+                    <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5" ><?php echo $comment; ?></textarea><br>
+                    <!-- <div class="row"> -->
+                        <?php endif; ?>
+                      <div class="col-sm-12 form-group" style="
+            margin-bottom: 80px;">
+                <?php  $errors = $_SESSION['errors'] ?? array(); ?>
+                <?php foreach ($errors as $e): ?>
+                <p style="color:red;"><?php echo $e; ?></p>
+            <?php endforeach; ?>
 
+        <br>
+        <br>
 
-
-
-<br>
-<br>
-
-                 <?php if(isset($_SESSION['exito'])): ?>
-                <span style="color:red">Gracias! <?php echo $nombre ?> </span>    <span style="color:red"><?php echo $_SESSION['exito'] ?></span>
-                <?php endif; ?>
-                 <?php if(!isset($_SESSION['exito'])): ?>
-                <button style='background-color:#FF530D; color:white;' class="btn btn-default pull-right" type="submit">Send</button>
-                <?php endif; ?>
-              </div>
+                         <?php if(isset($_SESSION['exito'])): ?>
+                        <span style="color:red">Gracias! <?php echo $nombre ?> </span>    <span style="color:red"><?php echo $_SESSION['exito'] ?></span>
+                        <?php endif; ?>
+                         <?php if(!isset($_SESSION['exito'])): ?>
+                        <button style='background-color:#FF530D; cursor: pointer; color:white;' class="btn btn-default pull-right" type="submit">Send</button>
+                        <?php endif; ?>
+                      </div>
 </form>
-<footer class="main-footer">
-    <ul>
-        <li><a href="index.php">HOME</a></li>
-        <li><a href="about.html">ABOUT</a></li>
-        <li><a href="mailto:orlyrosenkranz@hotmail.com?subject=feedback" >CONTACT</a></li>
-    </ul>
-    <strong class="copyright">©Orly Rosenkranz 2017. - All Rights Reserved.</strong>
-</footer>
+    <footer class="main-footer">
+        <ul>
+            <li><a href="index.php">HOME</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="mailto:orlyrosenkranz@hotmail.com?subject=feedback" >CONTACT</a></li>
+        </ul>
+        <strong class="copyright">©Orly Rosenkranz 2017. - All Rights Reserved.</strong>
+    </footer>
 
 
       <script>

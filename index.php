@@ -38,8 +38,8 @@
 					<img class="card-img-top" src="images/paint15.jpeg" alt="Card image cap">
 					<div class="card-body">
 					<h4 class="card-title">El Arbol de la Vida</h4>
-					<p class="card-text">Acrylic On Canvas.</p>
-					<li><b>Medida:</b>150x150 cm</li>
+					<p class="card-text">Acrylic On Canvas. <br> <b>Medida:</b>150x200 cm</p>
+					
 						<a href="contacto.php" class="btn btn-primary">Contact </a >
 					</div>
 				</div>
@@ -48,8 +48,8 @@
 						    <img class="card-img-top" src="images/paint16.jpeg" alt="Card image cap">
 						    <div class="card-body">
 						      <h4 class="card-title">Noviembre</h4>
-						      <p class="card-text">Acrylic on Canvas.</p>
-								<li><b>Medida:</b>150x150 cm</li>
+						      <p class="card-text">Acrylic on Canvas. <br> <b>Medida:</b>150x200 cm</p>
+								
 						      <a href="contacto.php" class="btn btn-primary">Contact </a >
 						    </div>
 					   </div>
@@ -100,8 +100,8 @@
 						    <img class="card-img-top" src="images/paint20.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h4 class="card-title">Spring</h4>
-						      <p class="card-text">Oil on Canvas</p>
-							<li><b>Medida:</b>150x150 cm</li>
+						      <p class="card-text">Oil on Canvas <br> <b>Medida:</b>150x200 cm</p>
+							
 						      <a href="contacto.php" class="btn btn-info">Contact </a >
 						    </div>
 					   </div>

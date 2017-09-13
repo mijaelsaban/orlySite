@@ -5,11 +5,13 @@ $email=$_SESSION['email']??'';
 $comment=$_SESSION['comment']??'';
  ?>
 <!DOCTYPE html>
-<html>
+<html = lang="es">
   <head>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>Orly Rosenkranz - Contact</title>
+    <meta name="keywords" content="Artista Plastica,artista,plastica,comprar,cuadros, latinarte, buy fine arts, bellas artes, arteba, milo locket, marta minujin, mejores artistas argentinos">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="favicon" href="favicon/icon.png" />
   </head>

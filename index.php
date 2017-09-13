@@ -3,13 +3,14 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport"  content="width=device-width, initial-scale=1" >
-		<title>Orly Rosenkranz</title>
+		<title>Orly Rosenkranz-Artista Plastica</title>
 		<link rel="stylesheet" href="style.css">
 		<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
 		<link rel="icon" type="favicon" href="favicon/icon.png" />
 		<meta name="description" content="Artist">
+		<meta name="description" content="Artista Plastica">
 		<meta name="author" content="Orly Rosenkranz">
-		<meta name="keywords" content="Arte,artista,plastica,comprar,cuadros">
+		<meta name="keywords" content="Artista Plastica,artista,plastica,comprar,cuadros, latinarte">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -38,6 +39,7 @@
 					<div class="card-body">
 					<h4 class="card-title">El Arbol de la Vida</h4>
 					<p class="card-text">Acrylic On Canvas.</p>
+					<li><b>Medida:</b>150x150 cm</li>
 						<a href="contacto.php" class="btn btn-primary">Contact </a >
 					</div>
 				</div>
@@ -47,7 +49,7 @@
 						    <div class="card-body">
 						      <h4 class="card-title">Noviembre</h4>
 						      <p class="card-text">Acrylic on Canvas.</p>
-						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+								<li><b>Medida:</b>150x150 cm</li>
 						      <a href="contacto.php" class="btn btn-primary">Contact </a >
 						    </div>
 					   </div>
@@ -99,7 +101,7 @@
 						    <div class="card-body">
 						      <h4 class="card-title">Spring</h4>
 						      <p class="card-text">Oil on Canvas</p>
-						      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+							<li><b>Medida:</b>150x150 cm</li>
 						      <a href="contacto.php" class="btn btn-info">Contact </a >
 						    </div>
 					   </div>
@@ -117,7 +119,7 @@
 			<li><a href="about.html">ABOUT</a></li>
 			<li><a href="mailto:orly@rosenkranz.com?subject=Mail%20desde%20el%20Sitio" >CONTACT</a></li>
 		</ul>
-		<strong class="copyright">©Orly Rosenkranz 2017. - All Rights Reserved.</strong>
+		<strong class="copyright">©Orly Rosenkranz Artista Plastica 2017. - All Rights Reserved.</strong>
 	</footer>
 
 		<script>

@@ -31,7 +31,7 @@
 	</div>
 
 
-	<div class="row galeria">
+	<!-- <div class="row galeria">
 		<div class="col-xs-12 col-sm-12 ">
 			<div class="card-columns">
 				<div class="card">
@@ -109,7 +109,7 @@
 			</div>
 		</div>	
 	</div>
-
+ -->
 
 
 

@@ -117,7 +117,7 @@
 		<ul>
 			<li><a href="#">HOME</a></li>
 			<li><a href="about.html">ABOUT</a></li>
-			<li><a href="mailto:orly@rosenkranz.com?subject=Mail%20desde%20el%20Sitio" >CONTACT</a></li>
+			<li><a href="mailto:orlyrosenkranz@hotmail.com?subject=Mail%20desde%20el%20Sitio" >CONTACT</a></li>
 		</ul>
 		<strong class="copyright">©Orly Rosenkranz Artista Plastica 2017. - All Rights Reserved.</strong>
 	</footer>
